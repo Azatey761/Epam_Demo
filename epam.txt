@@ -13,3 +13,5 @@ something that shouldn't be here
 added smth for git feature
 
 now feature has 2 commits
+
+this change is to do non-fast commit
