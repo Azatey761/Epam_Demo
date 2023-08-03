@@ -3,20 +3,17 @@ but not instantly
 
 
 I just added some new line
-
-
 added fourth line
-
 something that shouldn't be here
-
-
 added smth for git feature
-
 now feature has 2 commits
-
 this change is to do non-fast commit
+
+lalalla - feature
+ahahah - feature
 
 
 lalalla - feature
 
 PART 2
+Part 2 - feature
